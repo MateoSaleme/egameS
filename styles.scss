@@ -90,3 +90,15 @@ footer{
     }
 }
 
+#trending-items{
+    background-image: url(./img/backgroundsection.jpg);
+    background-size: cover;
+}
+
+#cards{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    box-shadow: 1px;
+    box-sizing: border-box;
+}

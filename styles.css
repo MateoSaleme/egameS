@@ -12064,4 +12064,19 @@ footer .box_copyrights p {
 footer .box_copyrights hr {
   color: #ffffff;
 }
+
+#trending-items {
+  background-image: url(./img/backgroundsection.jpg);
+  background-size: cover;
+}
+
+#cards {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  -webkit-box-shadow: 1px;
+          box-shadow: 1px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
 /*# sourceMappingURL=styles.css.map */
